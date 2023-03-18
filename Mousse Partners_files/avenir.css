@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4374997, 2022-02-18T01:44:13-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: AvenirNextLTPro-Regular by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir-next-pro/pro-regular/
+ * Copyright: Copyright &amp;#x00A9; 2004 - 2017 Monotype GmbH. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2022 MyFonts Inc
+*/
+
+
+
+  
+@font-face {
+  font-family: "AvenirNextLTPro-Regular";
+  src: url('font.woff2') format('woff2'), url('font.woff') format('woff');
+}
+
